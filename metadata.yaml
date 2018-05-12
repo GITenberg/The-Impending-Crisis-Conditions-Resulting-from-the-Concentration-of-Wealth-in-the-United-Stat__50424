@@ -1,10 +1,16 @@
 _repo: The-Impending-Crisis-Conditions-Resulting-from-the-Concentration-of-Wealth-in-the-United-Stat__50424
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50424-h/images/cover.jpg
 creator:
   author:
     agent_name: Bouroff, Basil A.
     gutenberg_agent_id: '45899'
     url: http://www.gutenberg.org/2009/agents/45899
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50424#The-Impending-Crisis-Conditions-Resulting-from-the-Concentration-of-Wealth-in-the-United-Stat_
 gutenberg_issued: '2015-11-10'
 gutenberg_type: Text
 identifiers:
